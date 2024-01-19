@@ -1,0 +1,55 @@
+body
+{
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+}
+header
+{
+    color: bisque;
+    text-align: center;
+}
+div
+{
+    align-content: center;
+    justify-content: center;
+    display: flex;
+}
+button
+{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+    margin: 2px;
+}
+.side
+{
+    background-color: orange;
+    color: azure;font-size: larger;
+}
+.zero
+{
+    width: 100px;
+    border-radius: 20px;
+}
+#light-grey
+{
+    background-color: rgb(170, 159, 159);
+    font-size: larger;
+}
+#dark-grey
+{
+    background-color: rgb(48, 45, 45);
+    color: azure;
+    font-size: larger;
+}
+.bar
+{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    background-color: black;
+    color: azure;
+    border-radius: 10px;
+}
